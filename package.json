@@ -1,6 +1,6 @@
 {
   "name": "rc-hammerjs",
-  "version": "0.6.8",
+  "version": "0.6.9",
   "description": "ReactJS / HammerJS integration. Support touch events in your React app.",
   "main": "./lib/index",
   "module": "./es/index",
@@ -11,7 +11,7 @@
     "url": "https://github.com/react-component/react-hammerjs"
   },
   "dependencies": {
-    "babel-runtime": "^6.23.0",
+    "babel-runtime": "6.x",
     "hammerjs": "^2.0.8",
     "prop-types": "^15.5.9"
   },
