@@ -35,7 +35,7 @@
     "rc-tools": "6.x",
     "react": "^15.2.0",
     "react-dom": "^15.2.0",
-    "vinyl-source-stream": "^1.1.0"
+    "vinyl-source-stream": "^2.0.0"
   },
   "browserify-shim": {
     "react": "global:React",
