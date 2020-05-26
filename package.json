@@ -37,9 +37,6 @@
     "react-dom": "^15.2.0",
     "vinyl-source-stream": "^1.1.0"
   },
-  "peerDependencies": {
-    "react": "^0.14.3 || ^15.0.0 || ^16.0.0"
-  },
   "browserify-shim": {
     "react": "global:React",
     "react-dom": "global:ReactDOM"
