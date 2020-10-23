@@ -33,7 +33,7 @@
     "gulp-util": "^3.0.7",
     "merge-stream": "^1.0.0",
     "rc-tools": "6.x",
-    "react": "^15.2.0",
+    "react": "^17.0.1",
     "react-dom": "^15.2.0",
     "vinyl-source-stream": "^1.1.0"
   },
